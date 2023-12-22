@@ -1,0 +1,16 @@
+.git/
+.githhub/
+.gradle/
+build/
+gradle/
+out/
+run/
+.idea/
+lib/
+model/*
+model2/*
+!model/README
+!model2/README
+*.iml
+*.ipr
+*.iws
